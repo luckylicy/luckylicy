@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+![luckylicy's github stats](https://github-readme-stats.vercel.app/api?username=luckylicy&theme=radical) 
+<p align="center">
+  <a href="https://github.com/luckylicy">
+    <img src="https://github-readme-stats.vercel.app/api?username=luckylicy&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://kukyxs.github.io/archives/">
+    <img src="https://img.shields.io/badge/-My blog-brightness.svg" />
+  </a>
+  <a href="https://github.com/luckylicy">
+    <img src="https://komarev.com/ghpvc/?username=luckylicy&color=ff69b4&label=Views" />
+  </a>  
+</p>
+
 <!--
 **luckylicy/luckylicy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
