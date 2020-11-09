@@ -2,12 +2,6 @@
 
 ![luckylicy's github stats](https://github-readme-stats.vercel.app/api?username=luckylicy&theme=radical) 
 <p align="center">
-  <a href="https://github.com/luckylicy">
-    <img src="https://github-readme-stats.vercel.app/api?username=luckylicy&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://kukyxs.github.io/archives/">
     <img src="https://img.shields.io/badge/-My blog-brightness.svg" />
   </a>
