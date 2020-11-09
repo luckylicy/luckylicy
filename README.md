@@ -2,7 +2,7 @@
 
 ![luckylicy's github stats](https://github-readme-stats.vercel.app/api?username=luckylicy&theme=radical) 
 <p align="center">
-  <a href="https://kukyxs.github.io/archives/">
+  <a href="https://blog.csdn.net/li_chengyang?spm=1010.2135.3001.5113">
     <img src="https://img.shields.io/badge/-My blog-brightness.svg" />
   </a>
   <a href="https://github.com/luckylicy">
